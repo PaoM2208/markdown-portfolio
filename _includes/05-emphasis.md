@@ -1,0 +1,3 @@
+**Java** es un lenguaje de programación de ordenadores, diseñado como una mejora de _C++_, y desarrollado por Sun **_Microsystems_** (compañía actualmente absorbida por Oracle).
+**Java** es muy importante actualmente y especialmente los programados que pasan por duras clases o cursos por los cuales pueden programar en java, pero hay que tomar en cuenta que _cualquiera_ puede programar, esto es importante ya que la programación en java está presente en los teléfonos celulares, se pueden utilizar aplicaciones como calculadoras simples, sencillísimos editores de texto para el envío de mensajes, juegos que cada vez tienen mayor complejidad, entre otras.
+**_By Gaviria S._**
